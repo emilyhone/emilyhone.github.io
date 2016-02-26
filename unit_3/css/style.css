@@ -1,7 +1,7 @@
 body {background: #A6E1FF;
 text-align: center;
 font-family: helvetica, sans-serifl
-background-image: url(background.jpg);
+background-image: url("background.jpg");
 background-size: cover;
 }
 
