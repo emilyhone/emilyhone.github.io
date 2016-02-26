@@ -1,0 +1,13 @@
+body {background: #A6E1FF;
+text-align: center;}
+h1 {background-image: url(background.jpg);
+	background-size: cover;
+	color: white;
+}
+
+	#slogan {font-style: italic;
+			color:4438FF;
+			font-weight: 800
+		}
+
+p {color:4438FF}
