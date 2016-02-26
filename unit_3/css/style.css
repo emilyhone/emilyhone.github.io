@@ -1,16 +1,18 @@
 body {background: #A6E1FF;
 text-align: center;
-font-family: helvetica, sans-serif}
+font-family: helvetica, sans-serifl
+background-image: url(background.jpg);
+background-size: cover;
+}
 
-h1 {background-image: url(background.jpg);
-	background-size: cover;
+h1 {
 	color: white;
 }
 
 	#slogan {font-style: italic;
-			color:4438FF;
-			font-weight: 800
+			color:0C0A2B;
+			font-weight: 800;
 			text-transform: uppercase;
 		}
 
-p {color:4438FF}
+p {color:0C0A2B;}
