@@ -1,5 +1,7 @@
 body {background: #A6E1FF;
-text-align: center;}
+text-align: center;
+font-family: helvetica, sans-serif}
+
 h1 {background-image: url(background.jpg);
 	background-size: cover;
 	color: white;
@@ -8,6 +10,7 @@ h1 {background-image: url(background.jpg);
 	#slogan {font-style: italic;
 			color:4438FF;
 			font-weight: 800
+			text-transform: uppercase;
 		}
 
 p {color:4438FF}
