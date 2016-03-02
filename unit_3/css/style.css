@@ -1,12 +1,10 @@
-body {background: #A6E1FF;
+body {background: #9176DE;
 text-align: center;
 font-family: helvetica, sans-serif;
-background-image: url("background.jpg");
-background-size: cover;
 }
 
 h1 {
-	color: white;
+	color: 2A2240;
 }
 
 	#slogan {font-style: italic;
@@ -15,4 +13,6 @@ h1 {
 			text-transform: uppercase;
 		}
 
-p {color:0C0A2B;}
+p {color:0C0A2B;
+width:900px;
+}
