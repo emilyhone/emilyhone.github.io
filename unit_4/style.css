@@ -5,6 +5,7 @@
 
 body {background: #9176DE;
 text-align: center;
+position: relative;
 font-family: helvetica, sans-serif
 font-size: 16px;
 }
@@ -21,3 +22,7 @@ width:30em;
 font-size: 1em;
 line-height: 1.5em;
 }
+
+#slogan {font-family: 'Orbitron', sans-serif ;
+			color:0C0A2B;
+		}
