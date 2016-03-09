@@ -9,10 +9,10 @@ font-family: helvetica, sans-serif
 font-size: 16px;
 }
 
-/*h1 {
+ {
 	font-family: 'Amatic SC', Helvetica, Serif;
 	color: 2A2240;
-}*/
+}
 
 	
 
@@ -20,8 +20,10 @@ p {color:0C0A2B;
 	width: 30em;
 font-size: 1em;
 line-height: 1.5em;
+margin-right: auto;
+margin-left: auto;
 }
 
-/*#slogan {font-family: 'Orbitron', sans-serif ;
+#slogan {font-family: 'Orbitron', sans-serif ;
 			color:0C0A2B;
-		}*/
+		}
