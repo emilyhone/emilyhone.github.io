@@ -14,16 +14,12 @@ font-size: 16px;
 	color: 2A2240;
 }
 
-	
-
-p {color:0C0A2B;
-	width: 30em;
-font-size: 1em;
-line-height: 1.5em;
-padding-left: 2em
-padding-right: 2em;
-}
-
 #slogan {font-family: 'Orbitron', sans-serif ;
 			color:0C0A2B;
-		}
+		}	
+
+p {width: 30em;
+font-size: 1em;
+line-height: 1.5em;
+}
+
