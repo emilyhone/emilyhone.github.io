@@ -1,20 +1,18 @@
 
-nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-	text-align: center;
-	list-style-type: none;
-	display: inline-block;
-}
-
-
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 }
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+}
+
 
 #aside { 
 background-color:  #FFC675;
