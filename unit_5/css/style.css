@@ -18,9 +18,11 @@ aside {
 background-color:  #FFC675;
 border: 1px black solid;
 	padding: 20px;
-	list-style-type: none;
 }
 
+ul {
+	list-style-type: none;
+}
 
 article { 
 background-color: #E89C6C;
@@ -33,7 +35,7 @@ background-color: #FF957E;
 border: 1px black solid;
 	padding: 20px;
 	text-align: center;
-	text-transform: smallcaps;
+	text-transform: small uppercase;
 }
 
 div { 
