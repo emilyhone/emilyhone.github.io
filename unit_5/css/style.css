@@ -14,7 +14,7 @@ nav {
 }
 
 
-#about { 
+.about { 
 background-color:  #FFC675;
 border: 1px black solid;
 	padding: 20px;
@@ -22,7 +22,7 @@ border: 1px black solid;
 }
 
 
-#image { 
+.image { 
 background-color: #E89C6C;
 border: 1px black solid;
 	padding: 20px;
@@ -33,7 +33,7 @@ background-color: #FF957E;
 border: 1px black solid;
 	padding: 20px;
 	text-align: center;
-	text-transform: smallcase;
+	font-variant: smallcaps;
 }
 
 div { 
