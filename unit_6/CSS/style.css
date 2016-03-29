@@ -7,6 +7,8 @@ header {
 }
 
 nav {
+	text-decoration: none;
+	margin: 1.8em;
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
@@ -47,21 +49,12 @@ nav {
 ul {
 	list-style-type: none;
 	text-transform: uppercase;
+	color: black;
 }
 
-/*aside { 
-background-color:  #FFC675;
-border: 1px black solid;
-	padding: 20px;
+li a:hover {
+	background-color: #555;
 }
-
-
-
-article { 
-background-color: #E89C6C;
-border: 1px black solid;
-	padding: 20px;
-}*/
 
 footer {
 background-color: #FF957E;
